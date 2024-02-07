@@ -8,4 +8,4 @@ Desenvolver uma solução de soma de inteiros de forma recursiva.
 
 ### Desafio 2:
 2. Apresente o Desk Check do exercício anterior. Este pode ser feito usando o Excel ou similar.
-![Screenshot from 2024-02-07 11-18-34.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202024-02-07%2011-18-34.png)
+![Screenshot from 2024-02-07 11-18-34](https://github.com/claudiocassimiro/Tarefa-5.5-programming/assets/65298393/ee34fde7-d783-4bf5-8845-d18d2a9f14f4)
